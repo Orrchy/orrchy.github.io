@@ -5,11 +5,11 @@
 
 <table>
 <tr>
-<td width="220" valign="top">
 
+<td width="240" align="center" valign="middle">
 <img src="/profile.JPG" width="200" style="border-radius:12px;" />
-
 </td>
+
 <td valign="top">
 
 <h1>Eva Nikolaeva</h1>
@@ -33,6 +33,7 @@ Known for <strong>pragmatic architecture</strong> and <strong>production-first d
 </p>
 
 </td>
+
 </tr>
 </table>
 
