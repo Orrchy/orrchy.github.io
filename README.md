@@ -3,6 +3,17 @@
 • [Email](evenikolaeva@gmail.com) 
 • [Telegram](https://t.me/orrchy)
 
+<table>
+<tr>
+<td width="220">
+
+<img src="/profile.JPG" width="200" style="border-radius:12px;" />
+
+</td>
+<td>
+
+# Eva Nikolaeva
+
 **Available for B2B contract · Remote-friendly worldwide**
 
 Senior .NET Backend Engineer with 8+ years building high-throughput distributed systems for gaming (Miniclip, *Vikings: War of Clans*) and martech (Elly Analytics).
@@ -10,6 +21,10 @@ Senior .NET Backend Engineer with 8+ years building high-throughput distributed 
 Scaled services to **200K+ concurrent players** and **millions of users** by designing **Kubernetes-hosted microservices**, **event-driven workflows (RabbitMQ)**, and optimised **data layers (MongoDB, SQL)**.
 
 Known for **pragmatic architecture** and **production-first debugging**.
+
+</td>
+</tr>
+</table>
 
 ## Key achievements
 
