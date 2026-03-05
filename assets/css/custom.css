@@ -1,0 +1,38 @@
+h2 {
+  border-bottom: 2px solid #e1e4e8;
+  padding-bottom: 6px;
+  margin-top: 40px;
+}
+.hero {
+  border-collapse: collapse;
+  margin-bottom: 30px;
+}
+
+.hero td {
+  vertical-align: middle;
+}
+
+.hero-photo {
+  width: 240px;
+  text-align: center;
+  padding-right: 28px;
+}
+
+.hero-photo img {
+  width: 200px;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto;
+}
+
+.hero-text {
+  max-width: 720px;
+}
+
+.hero-text h1 {
+  margin-top: 0;
+}
+
+.hero-text p {
+  line-height: 1.6;
+}
