@@ -1,26 +1,36 @@
-[CV](https://drive.google.com/file/d/1JkJ0eyj-gWtvO-V6nK2ONtvCaU3mX9i9/view?usp=sharing) 
-• [LinkedIn](https://www.linkedin.com/in/orrchy/) 
-• [Email](evenikolaeva@gmail.com) 
-• [Telegram](https://t.me/orrchy)
+📄 [CV](https://drive.google.com/file/d/1JkJ0eyj-gWtvO-V6nK2ONtvCaU3mX9i9/view?usp=sharing) 
+• 💼 [LinkedIn](https://www.linkedin.com/in/orrchy/) 
+• ✉️ [Email](mailto:evenikolaeva@gmail.com) 
+• 💬 [Telegram](https://t.me/orrchy)
 
 <table>
 <tr>
-<td width="220">
+<td width="220" valign="top">
 
 <img src="/profile.JPG" width="200" style="border-radius:12px;" />
 
 </td>
-<td>
+<td valign="top">
 
-# Eva Nikolaeva
+<h1>Eva Nikolaeva</h1>
 
-**Available for B2B contract · Remote-friendly worldwide**
+<p><strong>Available for B2B contract · Remote-friendly worldwide</strong></p>
 
-Senior .NET Backend Engineer with 8+ years building high-throughput distributed systems for gaming (Miniclip, *Vikings: War of Clans*) and martech (Elly Analytics).
+<p>
+Senior .NET Backend Engineer with 8+ years building high-throughput distributed systems
+for gaming (Miniclip, <em>Vikings: War of Clans</em>) and martech (Elly Analytics).
+</p>
 
-Scaled services to **200K+ concurrent players** and **millions of users** by designing **Kubernetes-hosted microservices**, **event-driven workflows (RabbitMQ)**, and optimised **data layers (MongoDB, SQL)**.
+<p>
+Scaled services to <strong>200K+ concurrent players</strong> and <strong>millions of users</strong>
+by designing <strong>Kubernetes-hosted microservices</strong>,
+<strong>event-driven workflows (RabbitMQ)</strong>,
+and optimised <strong>data layers (MongoDB, SQL)</strong>.
+</p>
 
-Known for **pragmatic architecture** and **production-first debugging**.
+<p>
+Known for <strong>pragmatic architecture</strong> and <strong>production-first debugging</strong>.
+</p>
 
 </td>
 </tr>
