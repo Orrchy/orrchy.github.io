@@ -6,11 +6,11 @@
 <table>
 <tr>
 
-<td width="240" align="center" valign="middle">
-<img src="/profile.JPG" width="200" style="border-radius:12px;" />
+<td class="hero-photo">
+<img src="/profile.JPG" alt="Eva Nikolaeva">
 </td>
 
-<td valign="top">
+<td class="hero-text">
 
 <h1>Eva Nikolaeva</h1>
 
